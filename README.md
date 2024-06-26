@@ -22,6 +22,6 @@ This repository contains:
 
 ### Resources
 
-* [Reference Research Papers](#https://github.com/AnshikaaAgarwal/Clustering-On-Dummy-Datasets/tree/main/Research_Papers)
+* [Reference Research Papers](https://github.com/AnshikaaAgarwal/Clustering-On-Dummy-Datasets/tree/main/Research_Papers)
 * [Dummy Datasets](#)
 * [Images](#)
